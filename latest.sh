@@ -1,0 +1,1 @@
+for f in {256,512,1024}; do echo $f - w; CUDA_VISIBLE_DEVICES=1 python ppl.py --space w --size $f --batch 8 stylegan-${f}px-new.model --n_sample 5000 --crop; echo $f - z; CUDA_VISIBLE_DEVICES=1 python ppl.py --space z --size $f --batch 8 stylegan-${f}px-new.model --n_sample 5000 --crop; done

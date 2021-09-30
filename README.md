@@ -4,7 +4,7 @@
 This repository is used for presentation in AAA738 computer vision class. [Presentors: Suneung-Kim, Heejo Kong and Jungho Hong]
 jupyter notebooks for presentation can be found here:
 
-Resolution | Model & Optimizer 
+Title      | Ipynb files
 -----------|-------------------
 generating | [Link](https://drive.google.com/open?id=1Wm1Aa4VLSIQJwh9BjoOrX3xyMvpVA-FO)
 model      | [Link](https://drive.google.com/open?id=1BYCHNFYJS__eT9VXnU0i-blS4HlKR1oT)
